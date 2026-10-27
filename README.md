@@ -12,7 +12,6 @@
 
 ### 👋 About me
 
-- 🎓 B.Tech Information Technology, VIT Pune
 - 🧠 Backend & distributed systems, applied ML, and AI/LLM agent workflows
 - 🏆 Active in hackathons & competitive programming (LeetCode, DP/graph/tree-DP problems)
 - 🚀 Recent builds: **DMA** (Differentiated Memory Architecture for long-running agents, with an accompanying arXiv paper), **GeoReasoner** (multimodal disaster-response pipeline), **LokSetu** (AI-triaged civic issue routing, SIH 2026), and an **OPD triage agent** for overloaded public hospitals
