@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./ml-banner-v2.svg" alt="Krishna Lokhande banner" width="100%"/>
 
 ### In abundance of intelligence, extracting real value 🤖
 
